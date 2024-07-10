@@ -1,5 +1,5 @@
 ### Hello, I'm BinaryBlade
-  - 🎓 Student at Studi - [HETIC](https://www.hetic.net/) pursuing a Bachelor's degree in web development with a passion for crafting robust BACKEND solutions.
+  - 🎓 Bachelor's degree in Application Development with a passion for crafting robust BACKEND solutions.
   - 💻 Backend Developer: Passionate about crafting backend solutions with [NestJS](https://nestjs.com/) and [Laravel](https://laravel.com).
   - ✨ Neovim Scripting: Customizing [Neovim](https://neovim.io/) for efficient coding.
   - 🐚 Shell Scripting: Automating tasks and diving into system operations.
