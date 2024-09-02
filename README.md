@@ -1,7 +1,6 @@
 ### Hello, I'm BinaryBlade
-  - 🎓 Bachelor's degree in Application Development with a passion for crafting robust BACKEND solutions.
+  - 🎓 Bachelor's degree in Application Development.
   - 💻 Backend Developer: Passionate about crafting backend solutions with [NestJS](https://nestjs.com/) and [Laravel](https://laravel.com).
-  - ✨ Neovim Scripting: Customizing [Neovim](https://neovim.io/) for efficient coding.
   - 🐚 Shell Scripting: Automating tasks and diving into system operations.
 
 ### FRAMEWORK
@@ -9,5 +8,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 ![](https://raw.githubusercontent.com/Binary-Blade/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Binary-Blade/github-stats/master/generated/languages.svg#gh-dark-mode-only)
