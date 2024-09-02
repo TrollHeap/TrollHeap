@@ -10,4 +10,5 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-![](https://raw.githubusercontent.com/Binary-Blade/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Binary-Blade/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Binary-Blade/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Binary-Blade/github-stats/master/generated/languages.svg#gh-dark-mode-only)
