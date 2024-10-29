@@ -1,4 +1,4 @@
-### Hello, I'm BinaryBlade
+### Hello, I'm Binary-grunt
   - 🎓 Bachelor's degree in Application Development.
   - 💻 Backend Developer: Passionate about crafting backend solutions with [NestJS](https://nestjs.com/) and [Laravel](https://laravel.com).
   - 🐚 Shell Scripting: Automating tasks and diving into system operations.
