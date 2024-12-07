@@ -3,7 +3,7 @@
   - 💻 Backend Developer: Passionate about crafting backend solutions using Python, Javascript/Typescript and PHP.
   - 🐚 Shell Scripting: Automating tasks and diving into system operations.
 
-### FRAMEWORK
+#### FRAMEWORK
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
