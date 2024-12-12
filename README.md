@@ -1,5 +1,5 @@
 ### Hello, I'm Binary-grunt
-  - 🎓 Bachelor's degree in Application Development.
+  - 🎓 Bachelor's degree in Software Development.
   - 💻 Backend Developer: Passionate about crafting backend solutions using **Python**, **Javascript/Typescript** and **PHP**.
   - 🐚 Shell Scripting: Automating tasks and diving into system operations.
 
