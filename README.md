@@ -1,7 +1,8 @@
 ## 👋 Hi there, I'm Binary-grunt!
 
 🎓 Bachelor's in Software Development  
-💻 Backend Developer | 🐚 Shell Scripting Enthusiast | 🌙 Lua Customization Lover  
+💻 Backend Developer
+🛠️ Shell Scripting Enthusiast 
 
 Welcome to my GitHub! I'm passionate about building efficient backend solutions, automating workflows, and crafting highly productive development environments.
 
