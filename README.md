@@ -10,9 +10,8 @@ Welcome to my GitHub! I'm passionate about building efficient backend solutions,
 
 - 🔧 I love building robust **backend systems** with **Python**, **JavaScript/TypeScript**, and **PHP**.
 - 🐚 I automate workflows and optimize processes using **Shell Scripting** (Bash, Zsh).
-- 🌙 I'm passionate about extending tools like **Neovim** using **Lua** for better developer productivity.
-- 🎨 Always experimenting with **system automation** tools like **Tmux**, **fzf**, and custom terminal setups.
-- 🌱 Currently diving deeper into **Go** and **Cloud-Native** technologies.
+- 🌙 I'm passionate about extending tools like **Neovim**, and **Arch Linux**.
+- 🌱 Currently diving deeper into **Cybersecurity** and **Devops** technologies.
 
 #### 🛠️ Tech Stack
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
