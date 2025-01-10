@@ -1,9 +1,19 @@
-### Hello, I'm Binary-grunt
-  - 🎓 Bachelor's degree in Software Development.
-  - 💻 Backend Developer: Passionate about crafting backend solutions using **Python**, **Javascript/Typescript** and **PHP**.
-  - 🐚 Shell Scripting: Automating tasks and diving into system operations.
+## 👋 Hi there, I'm Binary-grunt!
 
-#### TECHSTACK
+🎓 Bachelor's in Software Development  
+💻 Backend Developer | 🐚 Shell Scripting Enthusiast | 🌙 Lua Customization Lover  
+
+Welcome to my GitHub! I'm passionate about building efficient backend solutions, automating workflows, and crafting highly productive development environments.
+
+### 🚀 About Me
+
+- 🔧 I love building robust **backend systems** with **Python**, **JavaScript/TypeScript**, and **PHP**.
+- 🐚 I automate workflows and optimize processes using **Shell Scripting** (Bash, Zsh).
+- 🌙 I'm passionate about extending tools like **Neovim** using **Lua** for better developer productivity.
+- 🎨 Always experimenting with **system automation** tools like **Tmux**, **fzf**, and custom terminal setups.
+- 🌱 Currently diving deeper into **Go** and **Cloud-Native** technologies.
+
+#### 🛠️ Tech Stack
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
