@@ -10,8 +10,8 @@ Welcome to my GitHub! I'm passionate about building efficient backend solutions,
 
 - 🔧 I love building robust **backend systems** with **C#**, **JavaScript/TypeScript**, and **PHP**.
 - 🐚 I automate workflows and optimize processes using **Shell Scripting** (Bash, Zsh).
-- 🌙 I'm passionate about extending tools like **Neovim**, and **Arch Linux**.
-- 🌱 Currently diving deeper into **Cybersecurity** and **Devops** technologies.
+- 🌙 I'm passionate about extending tools like **Neovim**, and **UNIXx**.
+- 🌱 Currently diving deeper into **Devops**.
 
 #### 🛠️ Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
