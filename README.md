@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Binary-grunt!
 
-🎓 Bachelor's in Software Development  
-💻 Fullstack Developer
+Bachelor's in Software Development && Fullstack Developer
 
 Welcome to my GitHub! I'm passionate about building efficient backend solutions, automating workflows, and crafting highly productive development environments.
 
