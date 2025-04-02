@@ -1,13 +1,12 @@
 ## 👋 Hi there, I'm Binary-grunt!
 
-**Bachelor's in Software Development and in Computer Science && Fullstack Developer**
+** Double Bachelor's in Software Development and Computer Science && Fullstack Developer**
 
-Welcome to my GitHub! I'm passionate about building efficient backend solutions, automating workflows, and crafting highly productive development environments.
+Welcome to my GitHub! I'm passionate about building efficient backend solutions, automating workflows, linux environnement, and crafting highly productive development environments.
 
 - 🔧 I love building robust **backend systems** with **C#**, **JavaScript/TypeScript**, and **PHP**.
 - 🐚 I automate workflows and optimize processes using **Shell Scripting** (Bash, Zsh).
-- 🌙 I'm passionate about extending tools like **Neovim**, and **UNIXx**.
-- 🌱 Currently diving deeper into **Devops**.
+- 🌙 I'm passionate about extending tools like **Neovim**, **LINUX** and **UNIXx**.
 
 ---
 #### 🛠️ Tech Stack
