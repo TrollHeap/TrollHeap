@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about building efficient backend solutions,
 
 - 🔧 I love building robust **backend systems** with **C#**, **JavaScript/TypeScript**, and **PHP**.
 - 🐚 I automate workflows and optimize processes using **Shell Scripting** (Bash, Zsh).
-- 🌙 I'm passionate about extending tools like **Neovim**, **LINUX** and **UNIXx**.
+- 🌙 I'm passionate about extending tools like **Neovim**, **LINUX** and **UNIX**.
 
 ---
 #### 🛠️ Tech Stack
