@@ -4,13 +4,12 @@
 
 Welcome to my GitHub! I'm passionate about building efficient backend solutions, automating workflows, linux environnement, and crafting highly productive development environments.
 
-- 🔧 I love building robust **backend systems** with **C#**, **JavaScript/TypeScript**, and **PHP**.
-- 🐚 I automate workflows and optimize processes using **Shell Scripting** (Bash, Zsh).
+- 🔧 I love building robust **backend systems** with **JavaScript/TypeScript**, and **PHP**.
+- 🐚 I automate workflows and optimize processes using **Shell Scripting** (Pure Bash, Zsh, C, Python).
 - 🌙 I'm passionate about extending tools like **Neovim**, **LINUX** and **UNIX**.
 
 ---
 #### 🛠️ Tech Stack
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
