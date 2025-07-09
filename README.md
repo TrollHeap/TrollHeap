@@ -1,12 +1,29 @@
-## 👋 Hi there, I'm Binary-grunt, Fullstack Developer.
+## 👋 Hi there, I'm Binary-grunt.
 
-**Double Bachelor's in Software Development and Computer Science**
+🎯 **Systems & Fullstack Developer**, focused on modern computing architectures, low-level Linux internals, and highly optimized CLI-first workflows.
 
-Welcome to my GitHub! I'm passionate about building efficient backend solutions, automating workflows, linux environnement, and crafting highly productive development environments.
+> _“I don’t memorize — I model. I learn systems by breaking them apart and reassembling them.”_
 
-- 🔧 I love building robust **backend systems** with **JavaScript/TypeScript**, and **PHP**.
-- 🐚 I automate workflows and optimize processes using **Shell Scripting** (Pure Bash, Zsh, C, Python).
-- 🌙 I'm passionate about extending tools like **Neovim**, **LINUX** and **UNIX**.
+---
 
+## 🧠 About Me
+🎓 Dual Bachelor's in Software Engineering and Computer Science
+
+Passionate about:
+- **Systems programming** with `Rust`, `C`, and `Bash`,
+- High-performance **backend development** in `PHP`, `Typescript`, `Python` and `Rust - Tauri`,
+- Building fast, minimal **Linux-based development environments** with `Neovim`, `tmux`, and `Docker`,
+- Understanding **Unix-like operating systems from kernel to userspace**.
+
+📍 Working daily on **Fedora/Rhel Linux** (Wayland), in CLI-first setups, focused on **efficiency, reproducibility**, and **systemic design**.
+
+---
+
+## 🔍 Current Focus
+
+- 🔩 Writing **system daemons and tools** in Rust and Bash
+- 🧠 Mastering **Linux processes, threads, and memory subsystems**
+- 🛜 Building bridges between **Rust and Linux primitives** (mmap, signals, threads, etc.)
+- ⚒️ Designing **zero-dependency CLI tools and portable scripts**
 
 ![](https://raw.githubusercontent.com/Binary-Blade/github-stats/master/generated/languages.svg#gh-dark-mode-only)
