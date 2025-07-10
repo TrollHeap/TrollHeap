@@ -15,7 +15,7 @@ Passionate about:
 - Building fast, minimal **Linux-based development environments** with `Neovim`, `tmux`, and `Docker`,
 - Understanding **Unix-like operating systems from kernel to userspace**.
 
-📍 Working daily on **Fedora/Rhel Linux** (Wayland), in CLI-first setups, focused on **efficiency, reproducibility**, and **systemic design**.
+📍 Working daily on **Fedora/Rhel/Rocky linux**, in CLI-first setups, focused on **efficiency, reproducibility**, and **systemic design**.
 
 ---
 
