@@ -11,9 +11,8 @@
 
 Passionate about:
 - **Systems programming** with `Rust`, `C`, and `Bash`,
-- High-performance **backend development** in `PHP`, `Typescript`, `Python` and `Rust - Tauri`,
-- Building fast, minimal **Linux-based development environments** with `Neovim`, `tmux`, and `Docker`,
-- Understanding **Unix-like operating systems from kernel to userspace**.
+- High-performance **Backend development** in `PHP`, `Typescript`, `Python` and `Rust`,
+- Building fast, minimal **Linux-based development environments**. Understanding **Unix-like operating systems from kernel to userspace**.
 
 📍 Working daily on **Fedora/Rhel/Rocky linux**, in CLI-first setups, focused on **efficiency, reproducibility**, and **systemic design**.
 
