@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Binary-grunt.
+## 👋 Hi there, I'm GrunKode.
 
 🎯 **Systems & Fullstack Developer**, focused on modern computing architectures, low-level Linux internals, and highly optimized CLI-first workflows.
 
