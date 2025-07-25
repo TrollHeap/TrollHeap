@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Trollheap.
+## 👋 Hi there, I'm TrollHeap.
 
 🎯 **Systems & Fullstack Developer**, focused on modern computing architectures, low-level Linux internals, and highly optimized CLI-first workflows.
 
