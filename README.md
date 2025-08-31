@@ -8,7 +8,7 @@ Dual Bachelor's in Software Engineering and Computer Science
 
 Passionate about:
 - **Systems programming** with `Rust`, `C`, and `Bash`,
-- High-performance **Backend development** in `PHP`, `Typescript`, `Python`,
+- High-performance **Backend development** in `PHP`, `Typescript`, `Python`, `Rust(Tauri)`
 - Building fast, minimal **Linux-based development environments**. Understanding **Unix-like operating systems from kernel to userspace**.
 
 Working daily on **Fedora/Rhel/Rocky linux**, in CLI-first setups, focused on **efficiency, reproducibility**, and **systemic design**.
