@@ -1,22 +1,51 @@
-## Hi there, I'm TrollHeap.
+```bash
+ ████████╗██████╗  ██████╗ ██╗     ██╗     ██╗  ██╗ ███████╗ █████╗ ██████╗ 
+ ╚══██╔══╝██╔══██╗██╔═══██╗██║     ██║     ██║  ██║ ██╔════╝██╔══██╗██╔══██╗
+    ██║   ██████╔╝██║   ██║██║     ██║     ███████║ █████╗  ███████║██████╔╝
+    ██║   ██╔══██╗██║   ██║██║     ██║     ██║  ██║ ██╔══╝  ██╔══██║██╔═══╝ 
+    ██║   ██║  ██║╚██████╔╝███████╗███████╗██║  ██║ ███████╗██║  ██║██║     
+    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚══════╝╚═╝  ╚═╝╚═╝
+────────────────────────────────────────────────────────────────────────────
+> SYSTEM PROFILE : TrollHeap v2.3  (Human Build)
+> MODE           : CLI / Retro UNIX
+> STATUS         : Online  [ OK ]
+────────────────────────────────────────────────────────────────────────────
 
-**Systems & Fullstack Developer**, focused on modern computing architectures, low-level Linux internals, and highly optimized CLI-first workflows.
+[user@fedora ~]$ whoami
+TrollHeap — Systems & Fullstack Developer  
+> 🜸  *Born in the terminal. Forged by the kernel.*
 
-> _“I don’t memorize — I model. I learn systems by breaking them apart and reassembling them.”_
+[user@fedora ~]$ cat /etc/skills.conf
+▸ Systems Programming : Rust  | C | Bash | Go
+▸ Backend Engineering : PHP  | TypeScript | Rust (Tauri)
+▸ Workflow Tools      : tmux | nvim | kitty | lazy.nvim | starship
+▸ OS Habitat          : Fedora / RHEL / Rocky Linux / Hyprland
+────────────────────────────────────────────────────────────────────────────
 
-Dual Bachelor's in Software Engineering and Computer Science
+[user@fedora ~]$ focus --now
+⏱  [ 2025-10-11 | 20:42:17 UTC ]
+• Writing system daemons & CLI tools in Rust, Go & Bash  
+• Mapping Linux internals: processes, threads, memory subsystems  
+• Rust ↔ Linux : mmap, signals, epoll, threads  
+• Building zero-dependency portable utilities  
+• Designing minimal, reproducible Fedora-based environments
+────────────────────────────────────────────────────────────────────────────
 
-Passionate about:
-- **Systems programming** with `Rust`, `C`, and `Bash`,
-- High-performance **Backend development** in `PHP`, `Typescript`, `Python`, `Rust(Tauri)`
-- Building fast, minimal **Linux-based development environments**. Understanding **Unix-like operating systems from kernel to userspace**.
+[user@fedora ~]$ projects --list
+├── capsule/
+│   ├── PHP micro-kernel (routing, DI, templating)
+│   └── no framework. no magic. pure logic.
+└─ bootctl/
+    ├── CLI bootstrap for Linux learning
+    └── C-POSIX automation, phase pipelines
 
-Working daily on **Fedora/Rhel/Rocky linux**, in CLI-first setups, focused on **efficiency, reproducibility**, and **systemic design**.
+────────────────────────────────────────────────────────────────────────────
+[user@fedora ~]$ contact --show
+🌐  github.com/TrollHeap  
+📧  codegrunt@proton.me  
 
-### 🔍 Current Focus
-- Writing **system daemons and tools** in Rust and Bash
-- Mastering **Linux processes, threads, and memory subsystems**
-- Building bridges between **Rust and Linux primitives** (mmap, signals, threads, etc.)
-- Designing **zero-dependency CLI tools and portable scripts**
-
-![](https://raw.githubusercontent.com/Binary-Blade/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[user@fedora ~]$ exit
+logout
+[Process completed successfully]
+▌█▒░ Cursor blinking...
+```
