@@ -20,16 +20,6 @@ TrollHeap — Systems & Fullstack Developer
 ▸ Backend Engineering : PHP  | TypeScript | Rust (Tauri)
 ▸ Workflow Tools      : tmux | nvim | kitty | lazy.nvim | starship
 ▸ OS Habitat          : Fedora / RHEL / Rocky Linux / Hyprland
-────────────────────────────────────────────────────────────────────────────
-
-[user@fedora ~]$ focus --now
-⏱  [ 2025-10-11 | 20:42:17 UTC ]
-• Writing system daemons & CLI tools in Rust, Go & Bash  
-• Mapping Linux internals: processes, threads, memory subsystems  
-• Rust ↔ Linux : mmap, signals, epoll, threads  
-• Building zero-dependency portable utilities  
-• Designing minimal, reproducible Fedora-based environments
-────────────────────────────────────────────────────────────────────────────
 
 [user@fedora ~]$ projects --list
 ├── capsule/
@@ -39,7 +29,7 @@ TrollHeap — Systems & Fullstack Developer
     ├── CLI bootstrap for Linux learning
     └── C-POSIX automation, phase pipelines
 
-────────────────────────────────────────────────────────────────────────────
+
 [user@fedora ~]$ contact --show
 🌐  github.com/TrollHeap  
 📧  codegrunt@proton.me  
