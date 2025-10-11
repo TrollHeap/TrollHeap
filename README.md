@@ -49,7 +49,7 @@ logout
 [Process completed successfully]
 ▌█▒░ Cursor blinking...
 ```
-<div align="left" style="background-color:black;color:#00FF00;padding:20px;font-family:'Courier New',monospace;">
+<div align="left" style="background-color:green;color:#00FF00;padding:20px;font-family:'Courier New',monospace;">
 
 <pre>
  ████████╗██████╗  ██████╗ ██╗     ██╗     ██╗  ██╗ ███████╗ █████╗ ██████╗ 
