@@ -49,16 +49,3 @@ logout
 [Process completed successfully]
 ▌█▒░ Cursor blinking...
 ```
-```ansi
-[1;32mTROLLHEAP[0m
-[0;32m> SYSTEM PROFILE : TrollHeap v2.3 (Human Build)
-> MODE           : CLI / Retro UNIX
-> STATUS         : Online [ OK ][0m
-
-[0;32m[user@fedora ~]$ whoami[0m
-[1;32m🧠 TrollHeap — Systems & Fullstack Developer[0m
-[0;32m> 🜸 Born in the terminal. Forged by the kernel.[0m
-...
-[0;32m▌█▒░ Cursor blinking...[0m
-
-```
