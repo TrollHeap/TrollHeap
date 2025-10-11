@@ -30,8 +30,8 @@ TrollHeap — Systems & Fullstack Developer
     └── C-POSIX automation, phase pipelines
 
 [user@fedora ~]$ contact --show
-🌐  github.com/TrollHeap  
-📧  codegrunt@proton.me  
+ github - github.com/TrollHeap
+ email -  codegrunt@proton.me  
 
 [user@fedora ~]$ exit
 logout
