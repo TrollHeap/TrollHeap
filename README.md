@@ -29,7 +29,6 @@ TrollHeap — Systems & Fullstack Developer
     ├── CLI bootstrap for Linux learning
     └── C-POSIX automation, phase pipelines
 
-
 [user@fedora ~]$ contact --show
 🌐  github.com/TrollHeap  
 📧  codegrunt@proton.me  
