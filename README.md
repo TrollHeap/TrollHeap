@@ -12,7 +12,7 @@
 ────────────────────────────────────────────────────────────────────────────
 
 [user@fedora ~]$ whoami
-TrollHeap — Software & Fullstack Developer  
+TrollHeap — Software Engineer • Systems & Backend 
 > 🜸  *Born in the terminal. Forged by the kernel.*
 
 [user@fedora ~]$ cat /etc/skills.conf
