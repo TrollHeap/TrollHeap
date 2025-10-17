@@ -21,7 +21,7 @@ TrollHeap — Software Engineer • Systems & Backend
 ▸ Workflow Tools      : tmux | nvim | kitty | lazy.nvim | starship
 ▸ OS Habitat          : Fedora / RHEL / Rocky Linux / Hyprland
 
-[user@fedora ~]$ projects --list
+[user@fedora ~]$ current-projects --list
 ├── capsule/
 │   ├── PHP micro-kernel (routing, DI, templating)
 │   └── no framework. no magic. pure logic.
