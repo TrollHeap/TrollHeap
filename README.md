@@ -1,4 +1,4 @@
-```sh
+```
  ████████╗██████╗  ██████╗ ██╗     ██╗     ██╗  ██╗ ███████╗ █████╗ ██████╗ 
  ╚══██╔══╝██╔══██╗██╔═══██╗██║     ██║     ██║  ██║ ██╔════╝██╔══██╗██╔══██╗
     ██║   ██████╔╝██║   ██║██║     ██║     ███████║ █████╗  ███████║██████╔╝
@@ -7,18 +7,26 @@
     ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚══════╝╚═╝  ╚═╝╚═╝
 ────────────────────────────────────────────────────────────────────────────
 > SYSTEM PROFILE : TrollHeap v2.3  (Human Build)
-> MODE           : CLI / Retro UNIX
 > STATUS         : Online  [ OK ]
 ────────────────────────────────────────────────────────────────────────────
-
 [user@fedora ~]$ whoami
-TrollHeap — Software Engineer • Systems & Backend 
-> 🜸  *Born in the terminal. Forged by the kernel.*
+              .'ccccc:.              
+         ,'ccccccccccccccc:.          Trollheap@ Software Engineer • Systems & Backend 
+      .';cccccccccccccccccccc:.       > 🜸  *Born in the terminal. Forged by the kernel.*
+   .'ccccccccccccco@@@@bccccccc;      ----------------
+  .:cccccccccccccd@@cccq@@:cccccc,    OS: Fedora Linux 42 
+ .:ccccccccccccc@@@ccccc@@Pccccccc;   Uptime: 33 years 
+,:cccccccccccccc@@@ccccccccccccccc:   Terminal: kitty 0.43, Tmux
+ccccccccco@@@@@c@@@@@@@ccccccccccc:   WM: Hyprland 0.51.1
+cccccccd@@cccccc@@@ccccccccccccccc:
+cccccc@@occccccc@@@ccccccccccccccc'
+ccccccq@@bcccccd@@Pccccccccccccc;  
+ccccccccq@@@@@@@Pccccccccccccc:,   
+'cccccccccccccccccccccccccc:.      
 
 [user@fedora ~]$ cat /etc/skills.conf
 ▸ Systems Programming : Rust  | C | Bash | Go
 ▸ Backend Engineering : PHP  | TypeScript | Rust (Tauri)
-▸ Workflow Tools      : tmux | nvim | kitty | lazy.nvim | starship
 ▸ OS Habitat          : Fedora / RHEL / Rocky Linux / Hyprland
 
 [user@fedora ~]$ current-projects --list
