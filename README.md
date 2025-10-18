@@ -30,6 +30,10 @@ ccccccccq@@@@@@@Pccccccccccccc:,
 ▸ Backend Engineering : PHP  | TypeScript | Rust (Tauri)
 ▸ OS Habitat          : Fedora / RHEL / Rocky Linux / Hyprland
 
+[user@fedora ~]$ contact --show
+ github - github.com/TrollHeap
+ email -  codegrunt@proton.me  
+
 [user@fedora ~]$ current-projects --list
 ├── capsule/
 │   ├── PHP micro-kernel (routing, DI, templating)
@@ -37,10 +41,6 @@ ccccccccq@@@@@@@Pccccccccccccc:,
 └─ bootctl/
     ├── CLI bootstrap for Linux learning
     └── C-POSIX automation, phase pipelines
-
-[user@fedora ~]$ contact --show
- github - github.com/TrollHeap
- email -  codegrunt@proton.me  
 
 [user@fedora ~]$ exit
 logout
