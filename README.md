@@ -10,6 +10,7 @@
 > STATUS         : Online  [ OK ]
 ────────────────────────────────────────────────────────────────────────────
 [user@fedora ~]$ whoami
+
               .'ccccc:.              
          ,'ccccccccccccccc:.          Trollheap@ Software Engineer • Systems & Backend 
       .';cccccccccccccccccccc:.       > 🜸  *Born in the terminal. Forged by the kernel.*
