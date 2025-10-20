@@ -26,7 +26,7 @@ ccccccccq@@@@@@@Pccccccccccccc:,
 'cccccccccccccccccccccccccc:.      
 
 [user@fedora ~]$ cat /etc/skills.conf
-▸ Systems Programming : Go | C | Bash
+▸ Systems Programming : Go | C | Shell | Python
 ▸ Backend Engineering : PHP  | TypeScript | Go (Wails)
 ▸ OS Habitat          : Fedora / RHEL / Rocky Linux / Hyprland
 
