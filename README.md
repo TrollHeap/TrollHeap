@@ -1,4 +1,4 @@
-```
+```c
  ████████╗██████╗  ██████╗ ██╗     ██╗     ██╗  ██╗ ███████╗ █████╗ ██████╗ 
  ╚══██╔══╝██╔══██╗██╔═══██╗██║     ██║     ██║  ██║ ██╔════╝██╔══██╗██╔══██╗
     ██║   ██████╔╝██║   ██║██║     ██║     ███████║ █████╗  ███████║██████╔╝
@@ -26,8 +26,8 @@ ccccccccq@@@@@@@Pccccccccccccc:,
 'cccccccccccccccccccccccccc:.      
 
 [user@fedora ~]$ cat /etc/skills.conf
-▸ Systems Programming : Golang  | C | Bash
-▸ Backend Engineering : PHP  | TypeScript | Golang (Wails)
+▸ Systems Programming : Go | C | Bash
+▸ Backend Engineering : PHP  | TypeScript | Go (Wails)
 ▸ OS Habitat          : Fedora / RHEL / Rocky Linux / Hyprland
 
 [user@fedora ~]$ contact --show
