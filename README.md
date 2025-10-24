@@ -3,6 +3,7 @@
 > SYSTEM PROFILE : TrollHeap v2.3  (Human Build)
 > STATUS         : Online  [ OK ]
 ────────────────────────────────────────────────────────────────────────────
+
 [user@fedora ~]$ whoami
               .'ccccc:.              
          ,'ccccccccccccccc:.          Trollheap@ Software Engineer • Systems & Backend
