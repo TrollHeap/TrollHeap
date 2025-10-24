@@ -10,7 +10,7 @@
 ccccccccco@@@@@c@@@@@@@ccccccccccc:   ▸  Backend Engineering : PHP  | TypeScript | Go (Wails)
 cccccccd@@cccccc@@@ccccccccccccccc:   
 cccccc@@occccccc@@@ccccccccccccccc'   ? Contact
-ccccccq@@bcccccd@@Pccccccccccccc;        > Mail : codegrunt@proton.me
+ccccccq@@bcccccd@@Pccccccccccccc;        > mail : codegrunt@proton.me
 ccccccccq@@@@@@@Pccccccccccccc:,         > github : https://github.com/TrollHeap
 'cccccccccccccccccccccccccc:.     
 
