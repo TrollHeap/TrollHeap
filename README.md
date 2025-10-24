@@ -1,4 +1,8 @@
 ```c
+────────────────────────────────────────────────────────────────────────────
+> SYSTEM PROFILE : TrollHeap v2.3  (Human Build)
+> STATUS         : Online  [ OK ]
+────────────────────────────────────────────────────────────────────────────
 [user@fedora ~]$ whoami
               .'ccccc:.              
          ,'ccccccccccccccc:.          Trollheap@ Software Engineer • Systems & Backend
@@ -7,7 +11,7 @@
   .:cccccccccccccd@@cccq@@:cccccc,    ▸  OS: Fedora Linux 42, RHEL, Rocky Linux
  .:ccccccccccccc@@@ccccc@@Pccccccc;   ▸  Shell : Bash 5.2 
 ,:cccccccccccccc@@@ccccccccccccccc:   ▸  Systems Programming : Go | C | Shell | Python
-ccccccccco@@@@@c@@@@@@@ccccccccccc:   ▸  Backend Engineering : PHP  | TypeScript | Go (Wails)
+ccccccccco@@@@@c@@@@@@@ccccccccccc:   ▸  Web Engineering : PHP | TypeScript | Go
 cccccccd@@cccccc@@@ccccccccccccccc:   
 cccccc@@occccccc@@@ccccccccccccccc'   ? Contact
 ccccccq@@bcccccd@@Pccccccccccccc;        > mail : codegrunt@proton.me
