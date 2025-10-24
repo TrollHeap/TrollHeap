@@ -33,3 +33,4 @@ ccccccccq@@@@@@@Pccccccccccccc:,         > github : https://github.com/TrollHeap
          ├──  ▸ Interface TUI interactive (Bubbletea)
          └──  ▸ Fiabilité cross-platform (Linux/BSD)
 ```
+![](https://raw.githubusercontent.com/trollheap/github-stats/master/generated/languages.svg#gh-dark-mode-only)
