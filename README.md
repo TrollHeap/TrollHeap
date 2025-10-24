@@ -1,50 +1,30 @@
 ```c
- ████████╗██████╗  ██████╗ ██╗     ██╗     ██╗  ██╗ ███████╗ █████╗ ██████╗ 
- ╚══██╔══╝██╔══██╗██╔═══██╗██║     ██║     ██║  ██║ ██╔════╝██╔══██╗██╔══██╗
-    ██║   ██████╔╝██║   ██║██║     ██║     ███████║ █████╗  ███████║██████╔╝
-    ██║   ██╔══██╗██║   ██║██║     ██║     ██║  ██║ ██╔══╝  ██╔══██║██╔═══╝ 
-    ██║   ██║  ██║╚██████╔╝███████╗███████╗██║  ██║ ███████╗██║  ██║██║     
-    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚══════╝╚═╝  ╚═╝╚═╝
-────────────────────────────────────────────────────────────────────────────
-> SYSTEM PROFILE : TrollHeap v2.3  (Human Build)
-> STATUS         : Online  [ OK ]
-────────────────────────────────────────────────────────────────────────────
 [user@fedora ~]$ whoami
-
               .'ccccc:.              
-         ,'ccccccccccccccc:.          Trollheap@ Software Engineer • Systems & Backend 
+         ,'ccccccccccccccc:.          Trollheap@ Software Engineer • Systems & Backend
       .';cccccccccccccccccccc:.       > 🜸  *Born in the terminal. Forged by the kernel.*
    .'ccccccccccccco@@@@bccccccc;      ----------------
-  .:cccccccccccccd@@cccq@@:cccccc,    OS: Fedora Linux 42 
- .:ccccccccccccc@@@ccccc@@Pccccccc;   Uptime: 33 years 
-,:cccccccccccccc@@@ccccccccccccccc:   Terminal: kitty 0.43, Tmux
-ccccccccco@@@@@c@@@@@@@ccccccccccc:   WM: Hyprland 0.51.1
-cccccccd@@cccccc@@@ccccccccccccccc:
-cccccc@@occccccc@@@ccccccccccccccc'
-ccccccq@@bcccccd@@Pccccccccccccc;  
-ccccccccq@@@@@@@Pccccccccccccc:,   
-'cccccccccccccccccccccccccc:.      
-
-[user@fedora ~]$ cat /etc/skills.conf
-▸ Systems Programming : Go | C | Shell | Python
-▸ Backend Engineering : PHP  | TypeScript | Go (Wails)
-▸ OS Habitat          : Fedora / RHEL / Rocky Linux / Hyprland
-
-[user@fedora ~]$ contact --show
- github - github.com/TrollHeap
- email -  codegrunt@proton.me  
+  .:cccccccccccccd@@cccq@@:cccccc,    ▸  OS: Fedora Linux 42, RHEL, Rocky Linux
+ .:ccccccccccccc@@@ccccc@@Pccccccc;   ▸  Shell : Bash 5.2 
+,:cccccccccccccc@@@ccccccccccccccc:   ▸  Systems Programming : Go | C | Shell | Python
+ccccccccco@@@@@c@@@@@@@ccccccccccc:   ▸  Backend Engineering : PHP  | TypeScript | Go (Wails)
+cccccccd@@cccccc@@@ccccccccccccccc:   
+cccccc@@occccccc@@@ccccccccccccccc'   ? Contact
+ccccccq@@bcccccd@@Pccccccccccccc;        > Mail : codegrunt@proton.me
+ccccccccq@@@@@@@Pccccccccccccc:,         > github : https://github.com/TrollHeap
+'cccccccccccccccccccccccccc:.     
 
 [user@fedora ~]$ current-projects --list
-├── capsule/
-│   ├── PHP micro-kernel (routing, DI, templating)
-│   └── no framework. no magic. pure logic.
-└─ bootctl/
-    ├── CLI bootstrap for Linux learning
-    └── C-POSIX automation, phase pipelines
-
-[user@fedora ~]$ exit
-logout
-[Process completed successfully]
-▌█▒░ Cursor blinking...
+├── CapsulePhp/   (PHP 8.3+)
+│   └── Micro-kernel PHP minimaliste pour applications web modernes.
+│        ├──  ▸ Routage HTTP performant sans dépendances lourdes
+│        ├──  ▸ Injection de dépendances native
+│        ├──  ▸ Moteur de templates léger
+│        └──  ▸ Zéro framework magique : contrôle total sur la logique métier
+│
+└── Gobox/ (Go 1.24+, Bubbletea CLI framework)
+    └──  Outils de reconditionnement, migration de bash vers go
+         ├──  ▸ Migration progressive de scripts Bash legacy
+         ├──  ▸ Interface TUI interactive (Bubbletea)
+         └──  ▸ Fiabilité cross-platform (Linux/BSD)
 ```
-![](https://raw.githubusercontent.com/trollheap/github-stats/master/generated/languages.svg#gh-dark-mode-only)
