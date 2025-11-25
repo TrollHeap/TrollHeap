@@ -9,8 +9,8 @@
          ,'ccccccccccccccc:.          Trollheap@ Software Engineer • Systems & Backend
       .';cccccccccccccccccccc:.       > 🜸  *Born in the terminal. Forged by the kernel.*
    .'ccccccccccccco@@@@bccccccc;      ----------------
-  .:cccccccccccccd@@cccq@@:cccccc,    ▸  OS: Fedora Linux 42, RHEL, Rocky Linux
- .:ccccccccccccc@@@ccccc@@Pccccccc;   ▸  Shell : Bash 5.2 
+  .:cccccccccccccd@@cccq@@:cccccc,    ▸  OS: Fedora Linux 43, RHEL, Rocky Linux
+ .:ccccccccccccc@@@ccccc@@Pccccccc;   ▸  Shell : Bash 5.3 
 ,:cccccccccccccc@@@ccccccccccccccc:   ▸  Systems Programming : Go | C | Shell | Python
 ccccccccco@@@@@c@@@@@@@ccccccccccc:   ▸  Web Engineering : PHP | TypeScript | Go
 cccccccd@@cccccc@@@ccccccccccccccc:   
