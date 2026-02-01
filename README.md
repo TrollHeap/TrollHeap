@@ -11,8 +11,8 @@
    .'ccccccccccccco@@@@bccccccc;      ----------------
   .:cccccccccccccd@@cccq@@:cccccc,    ▸  OS: Fedora Linux 43, RHEL, Rocky Linux
  .:ccccccccccccc@@@ccccc@@Pccccccc;   ▸  Shell : Bash 5.3 
-,:cccccccccccccc@@@ccccccccccccccc:   ▸  Systems Programming : Go | C | Shell | Python
-ccccccccco@@@@@c@@@@@@@ccccccccccc:   ▸  Web Engineering : PHP | TypeScript | Go
+,:cccccccccccccc@@@ccccccccccccccc:   ▸  Language Programming : Go | C | Rust | Shell | Python | PHP | TypeScript 
+ccccccccco@@@@@c@@@@@@@ccccccccccc: 
 cccccccd@@cccccc@@@ccccccccccccccc:   
 cccccc@@occccccc@@@ccccccccccccccc'   ? Contact
 ccccccq@@bcccccd@@Pccccccccccccc;        > mail : codegrunt@proton.me
