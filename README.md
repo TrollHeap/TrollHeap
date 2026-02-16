@@ -20,7 +20,7 @@ ccccccccq@@@@@@@Pccccccccccccc:,         > github : https://github.com/TrollHeap
 'cccccccccccccccccccccccccc:.     
 
 [user@fedora ~]$ current-projects --list
-├── CapsulePhp/   (PHP 8.3+)
+├── CapsulePhp/   (PHP 8.4+)
 │   └── Micro-kernel PHP minimaliste pour applications web modernes.
 │        ├──  ▸ Routage HTTP performant sans dépendances lourdes
 │        ├──  ▸ Injection de dépendances native
