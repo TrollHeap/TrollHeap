@@ -1,8 +1,4 @@
 ```
-[user@trollheap ~]$ cat /etc/profile.d/me.conf
-  > **SYSTEM PROFILE** : 
-  > **STATUS** : Online [ OK ]
-
 [user@trollheap ~]$  whoami 
               .'ccccc:.              
          ,'ccccccccccccccc:.          TrollHeap@ Software Engineer • Systems & Backend
@@ -19,39 +15,42 @@ ccccccccq@@@@@@@Pccccccccccccc:,       > github: [TrollHeap](https://github.com/
 'cccccccccccccccccccccccccc:.          > mail: [trollheap@proton.me](mailto:trollheap@proton.me)
 
 [user@trollheap ~]$ ls -la ~/projects/
+
 ├── drwxr-xr-x  KernelForge/       
 │   └── learn Rust & C. wasm sandbox. no bloat.
-│        ├── dataflow diagrams, stack/heap layout, ownership graph — rendered per step
-│        ├── compiled to WebAssembly and executed in a sandboxed Wasmtime runtime
-│        ├── everything runs locally, exercises bundled as JSON
+│        ├── dataflow diagrams, stack/heap layout, ownership graph
+│        ├── compiled to WebAssembly (Wasmtime runtime)
+│        ├── local-first execution, exercises bundled as JSON
 │        └── cht.sh HTTP client with local cache
 │
 ├── drwxr-xr-x  ForgeNote/
-│    └── note-taking spaced-repetition scheduler app. 133t / 257 MB. beats RemNote (95t / 1.1 GB) 
-│        ├── Éditeur blocs bidirectionnels
-│        ├── Sync offline-first
-│        ├── TUI/Desktop (Ratatui/Tauri ?)
-│        └── Debug: /target/debug/forgeNote – 51 threads, 245MB max
+│    └── spaced-repetition scheduler. 133t / 257 MB. beats RemNote (1GB+) 
+│        ├── bidirectional block editor
+│        ├── offline-first sync engine
+│        ├── TUI/Desktop hybrid (Ratatui/Tauri)
+│        └── native performance (Rust core)
 │
 └── drwxr-xr-x  PHPGrunt/ 
     └── php scaffolding. grunt pipeline. zero framework tax.
-         ├── Éditeur blocs bidirectionnels
-         ├── Sync offline-first
-         ├── TUI/Desktop (Ratatui/Tauri ?)
-         └── Debug: /target/debug/forgeNote – 51 threads, 245MB max
-
-
+         ├── ultra-light PHP project generation
+         ├── asset pipeline without heavy Node.js deps
+         ├── optimized native templates
+         └── absolute focus on low-level DX
+         
 [user@trollheap ~]$ cat ~/philosophy/low-power-manifesto.txt
 
+  🜸  LOW-POWER MANIFESTO v1.1
   I build for machines that don't have 32 GB of RAM.
-  A tool that eats 1 GB idle is a broken tool.
-  Local-first. Static binaries. No telemetry. No electron.
-  Complexity is a bug. Simplicity ships.
+  A tool that eats 1 GB idle is a broken tool. [ForgeNote: 257MB vs RemNote: 1.1GB]
+
+  • Static binaries. No telemetry. No Electron bloat.
+  • Privacy by default. Your data never leaves your machine.
+  • Security paranoia: hardened by design, no supply-chain nightmares.
+  • Local-first. Offline-first. Zero vendor lock-in.
+  • Complexity is a bug. Simplicity ships. 
+
+  *If it can't run on a refurbished ThinkPad with 8GB RAM, 
+   it doesn't ship. Kernel-close, battery-friendly, future-proof.*
 ```
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrollHeap&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/TrollHeap)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrollHeap&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/TrollHeap)
-
-
 
 ![](https://raw.githubusercontent.com/trollheap/github-stats/master/generated/languages.svg#gh-dark-mode-only)
