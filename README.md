@@ -1,4 +1,4 @@
-```
+```rs
 [user@trollheap ~]$  whoami 
               .'ccccc:.              
          ,'ccccccccccccccc:.          TrollHeap@ Software Engineer • Systems & Backend
