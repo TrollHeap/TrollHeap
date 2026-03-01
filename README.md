@@ -35,12 +35,12 @@ TrollHeap@ Software Engineer • Systems & Backend
          ├── asset pipeline without heavy Node.js deps
          ├── optimized native templates
          └── absolute focus on low-level DX
-         
+
 [user@trollheap ~]$ cat ~/philosophy/low-power-manifesto.txt
 
-  🜸  LOW-POWER MANIFESTO v1.1
-  I build for machines that don't have 32 GB of RAM.
-  A tool that eats 1 GB idle is a broken tool. [ForgeNote: 257MB vs RemNote: 1.1GB]
+🜸  LOW-POWER MANIFESTO v1.1
+I build for machines that don't have 32 GB of RAM.
+A tool that eats 1 GB idle is a broken tool. [ForgeNote: 257MB vs RemNote: 1.1GB]
 
   • Static binaries. No telemetry. No Electron bloat.
   • Privacy by default. Your data never leaves your machine.
@@ -48,8 +48,7 @@ TrollHeap@ Software Engineer • Systems & Backend
   • Local-first. Offline-first. Zero vendor lock-in.
   • Complexity is a bug. Simplicity ships. 
 
-  *If it can't run on a refurbished ThinkPad with 8GB RAM, 
-   it doesn't ship. Kernel-close, battery-friendly, future-proof.*
+*If it can't run on a refurbished ThinkPad with 8GB RAM, it doesn't ship. Kernel-close, battery-friendly, future-proof.*
 ```
 
 ![](https://raw.githubusercontent.com/trollheap/github-stats/master/generated/languages.svg#gh-dark-mode-only)
