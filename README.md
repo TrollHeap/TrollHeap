@@ -1,4 +1,4 @@
-```rs
+```c
 [user@trollheap ~]$  whoami 
 TrollHeap@ Software Engineer • Systems & Backend
 > 🜸 *low-power systems tinkerer. i build tools that don't waste your RAM.*
