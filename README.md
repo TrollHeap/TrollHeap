@@ -48,7 +48,8 @@ A tool that eats 1 GB idle is a broken tool. [ForgeNote: 257MB vs RemNote: 1.1GB
   • Local-first. Offline-first. Zero vendor lock-in.
   • Complexity is a bug. Simplicity ships. 
 
-*If it can't run on a refurbished ThinkPad with 8GB RAM, it doesn't ship. Kernel-close, battery-friendly, future-proof.*
+*If it can't run on a refurbished ThinkPad with 8GB RAM,
+it doesn't ship. Kernel-close, battery-friendly, future-proof.*
 ```
 
 ![](https://raw.githubusercontent.com/trollheap/github-stats/master/generated/languages.svg#gh-dark-mode-only)
