@@ -1,21 +1,19 @@
 ```rs
 [user@trollheap ~]$  whoami 
-              .'ccccc:.              
-         ,'ccccccccccccccc:.          TrollHeap@ Software Engineer • Systems & Backend
-      .';cccccccccccccccccccc:.       > 🜸 *low-power systems tinkerer. i build tools that don't waste your RAM.*
-   .'ccccccccccccco@@@@bccccccc;      ----------------
-  .:cccccccccccccd@@cccq@@:cccccc,    ▸ OS: Fedora 43 • RHEL • Rocky Linux • NixOS 
- .:ccccccccccccc@@@ccccc@@Pccccccc;   ▸ Shell: Bash 5.3 • Zsh
-,:cccccccccccccc@@@ccccccccccccccc:   ▸ Langages: Go · Rust · C · Bash · PHP · TypeScript
-ccccccccco@@@@@c@@@@@@@ccccccccccc:   ▸ Build : Tauri 2 · SolidJS · Ratatui · Bubbletea
-cccccccd@@cccccc@@@ccccccccccccccc:   
-cccccc@@occccccc@@@ccccccccccccccc'  
-ccccccq@@bcccccd@@Pccccccccccccc;     ? Contact 
-ccccccccq@@@@@@@Pccccccccccccc:,       > github: [TrollHeap](https://github.com/TrollHeap)
-'cccccccccccccccccccccccccc:.          > mail: [trollheap@proton.me](mailto:trollheap@proton.me)
+        
+TrollHeap@ Software Engineer • Systems & Backend
+> 🜸 *low-power systems tinkerer. i build tools that don't waste your RAM.*
+----------------
+  ▸ OS: Fedora 43 • RHEL • Rocky Linux • NixOS 
+  ▸ Shell: Bash 5.3 • Zsh
+  ▸ Langages: Go · Rust · C · Bash · PHP · TypeScript
+  ▸ Build : Tauri 2 · SolidJS · Ratatui · Bubbletea
+----------------
+> ? Contact 
+  ▸ github: [TrollHeap](https://github.com/TrollHeap)
+  ▸ mail: [trollheap@proton.me](mailto:trollheap@proton.me)
 
 [user@trollheap ~]$ ls -la ~/projects/
-
 ├── drwxr-xr-x  KernelForge/       
 │   └── learn Rust & C. wasm sandbox. no bloat.
 │        ├── dataflow diagrams, stack/heap layout, ownership graph
