@@ -1,6 +1,5 @@
 ```rs
 [user@trollheap ~]$  whoami 
-        
 TrollHeap@ Software Engineer • Systems & Backend
 > 🜸 *low-power systems tinkerer. i build tools that don't waste your RAM.*
 ----------------
@@ -8,7 +7,9 @@ TrollHeap@ Software Engineer • Systems & Backend
   ▸ Shell: Bash 5.3 • Zsh
   ▸ Langages: Go · Rust · C · Bash · PHP · TypeScript
   ▸ Build : Tauri 2 · SolidJS · Ratatui · Bubbletea
-----------------
+
+
+[user@trollheap ~]$ cat ~/info/contact.txt
 > ? Contact 
   ▸ github: [TrollHeap](https://github.com/TrollHeap)
   ▸ mail: [trollheap@proton.me](mailto:trollheap@proton.me)
