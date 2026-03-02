@@ -23,10 +23,10 @@ TrollHeap@ Software Engineer • Systems & Backend
 │        └── cht.sh HTTP client with local cache
 │
 ├── drwxr-xr-x  ForgeNote/
-│    └── spaced-repetition scheduler. 133t / 257 MB. beats RemNote (1GB+) 
+│    └── spaced-repetition scheduler. 133t / 257 MB. beats other application (1GB+) 
 │        ├── bidirectional block editor
 │        ├── offline-first sync engine
-│        ├── TUI/Desktop hybrid (Ratatui/Tauri)
+│        ├── Tauri + Solidjs
 │        └── native performance (Rust core)
 │
 └── drwxr-xr-x  PHPGrunt/ 
@@ -35,8 +35,8 @@ TrollHeap@ Software Engineer • Systems & Backend
          ├── asset pipeline without heavy Node.js deps
          ├── optimized native templates
          └── absolute focus on low-level DX
-```
 
+[user@trollheap ~]$ cat ~/philosophy/idea.txt
 🜸  LOW-POWER MANIFESTO v1.1
 I build for machines that don't have 32 GB of RAM.
 A tool that eats 1 GB idle is a broken tool.
@@ -49,5 +49,6 @@ A tool that eats 1 GB idle is a broken tool.
 
 *If it can't run on a refurbished ThinkPad with 8GB RAM,
 it doesn't ship. Kernel-close, battery-friendly, future-proof.*
+```
 
 ![](https://raw.githubusercontent.com/trollheap/github-stats/master/generated/languages.svg#gh-dark-mode-only)
