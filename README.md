@@ -6,7 +6,7 @@ TrollHeap@ Software Engineer • Systems & Backend
   ▸ OS: Fedora 43 • RHEL • Rocky Linux • NixOS 
   ▸ Shell: Bash 5.3 • Zsh
   ▸ Langages: Go · Rust · C · Bash · PHP · TypeScript · Python
-  ▸ Build : Tauri 2 · SolidJS · Ratatui · Bubbletea
+  ▸ Build : Tauri 2 · SolidJS · Ratatui
 
 
 [user@trollheap ~]$ cat ~/info/contact.txt
