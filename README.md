@@ -15,14 +15,14 @@ TrollHeap@ Software Engineer • Systems & Backend
   ▸ mail: [trollheap@proton.me](mailto:trollheap@proton.me)
 
 [user@trollheap ~]$ ls -la ~/projects/
-├── drwxr-xr-x  KernelForge/       
+├── drwxr-xr-x  Clings/       
 │   └── learn Rust & C. wasm sandbox. no bloat.
 │        ├── dataflow diagrams, stack/heap layout, ownership graph
 │        ├── compiled to WebAssembly (Wasmtime runtime)
 │        ├── local-first execution, exercises bundled as JSON
 │        └── cht.sh HTTP client with local cache
 │
-├── drwxr-xr-x  ForgeNote/
+├── drwxr-xr-x  Temper/
 │    └── spaced-repetition scheduler. 133t / 257 MB. beats other application (1GB+) 
 │        ├── bidirectional block editor
 │        ├── offline-first sync engine
