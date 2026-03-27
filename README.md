@@ -19,13 +19,12 @@ TrollHeap@ Software Engineer • Systems & Backend
 │        ├── 283 exercises compiled with gcc, output auto-validated
 │        ├── SRS mode: prioritized by mastery level per topic
 │        ├── exam mode: timed simulation, piscine mode: linear walkthrough
-│        ├── aligned with NSY103 / UTC502 curriculum (annales mapped)
 │        ├── daily streak, mastery dashboard, git sync for multi-machine
 │        └── compiled to WebAssembly via Wasmtime — local-first execution
 │
 ├── drwxr-xr-x  Temper/
 │   └── spaced-repetition desktop app — 257 MB. others ship at 1 GB+.
-│        ├── FSRS-4.5 scheduler (+ SM-2, RecallProbability, GraphAware modes)
+│        ├── FSRS-6 scheduler (RecallProbability, GraphAware modes)
 │        ├── 14 card types: trace, calc, cloze, occlusion, schema, match, sort…
 │        ├── knowledge graph — Cytoscape.js, clustering, temperature colouring
 │        ├── AI Capture — concept extraction from text via Claude API
