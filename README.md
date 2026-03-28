@@ -16,7 +16,7 @@ A tool that eats 1 GB idle is a broken tool.
 it doesn't ship. Kernel-close, battery-friendly, future-proof.*
 ----------------
 ▸ Shell : Bash 5 + ble.sh · Zsh
-▸ Language : Rust · C · Bash · PHP 8.4 · TypeScript · Python
+▸ Language : Rust · Lua · Bash · PHP · TypeScript · Python · C 
 ▸ Build : Tauri v2 · SolidJS · Ratatui · Textual
 ▸ Next  : Zig (after C) · Rust WASM (Leptos / Dioxus)
 
